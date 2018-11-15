@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FileAssociationHelper.cs](./CS/FileAssociationHelper.cs) (VB: [FileAssociationHelper.vb](./VB/FileAssociationHelper.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # Associate an application with a particular file extension to open it by this application
 
 
